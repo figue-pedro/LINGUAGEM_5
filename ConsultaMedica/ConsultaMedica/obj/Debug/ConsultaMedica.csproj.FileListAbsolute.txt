@@ -1,0 +1,6 @@
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\bin\Debug\ConsultaMedica.exe.config
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\bin\Debug\ConsultaMedica.exe
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\bin\Debug\ConsultaMedica.pdb
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\obj\Debug\ConsultaMedica.csprojResolveAssemblyReference.cache
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\obj\Debug\ConsultaMedica.exe
+C:\Users\AG\Desktop\Projeto de C#\ConsultaMedica\ConsultaMedica\obj\Debug\ConsultaMedica.pdb
